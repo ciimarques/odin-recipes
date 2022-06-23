@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes será feito meu primeiro projeto desenvolvido em html.
